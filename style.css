@@ -25,11 +25,11 @@
   display: flex;
 }
 .close {
-  width: 25px;
-  height: 25px;
-  line-height: 25px;
-  top: -12px;
-  right: -12px;
+  width: 1.5rem;
+  height: 1.5rem;
+  line-height: 1.5rem;
+  top: -0.7rem;
+  right: -0.7rem;
   background-color: #eeb08b;
 }
 .close a {
